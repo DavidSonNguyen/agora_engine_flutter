@@ -1,3 +1,5 @@
+library agora_plugin;
+
 export 'src/agora_render_widget.dart';
 export 'src/base.dart';
 export 'src/engine.dart';
