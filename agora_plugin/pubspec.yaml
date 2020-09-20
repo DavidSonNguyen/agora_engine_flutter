@@ -28,7 +28,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.example.agora_plugin
+        package: com.agora.agora_plugin
         pluginClass: AgoraPlugin
       ios:
         pluginClass: AgoraPlugin
